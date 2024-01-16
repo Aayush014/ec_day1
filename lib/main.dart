@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
                   TextSpan(
                     text: '🍎  Apple',
                     style: TextStyle(
-                      fontSize: 50,
+                      fontSize: 45,
                       color: Colors.red,
                       fontWeight: FontWeight.bold,
                     ),
@@ -42,7 +42,7 @@ class MyApp extends StatelessWidget {
                   TextSpan(
                     text: '\n🍇  Greps',
                     style: TextStyle(
-                      fontSize: 50,
+                      fontSize: 45,
                       color: Colors.purpleAccent,
                       fontWeight: FontWeight.bold,
                     ),
@@ -50,7 +50,7 @@ class MyApp extends StatelessWidget {
                   TextSpan(
                     text: '\n🍒  Cherry',
                     style: TextStyle(
-                      fontSize: 50,
+                      fontSize: 45,
                       color: Colors.purple,
                       fontWeight: FontWeight.bold,
                     ),
@@ -58,7 +58,7 @@ class MyApp extends StatelessWidget {
                   TextSpan(
                     text: '\n🍓  Strawberry',
                     style: TextStyle(
-                      fontSize: 50,
+                      fontSize: 45,
                       color: Colors.pinkAccent,
                       fontWeight: FontWeight.bold,
                     ),
@@ -66,7 +66,7 @@ class MyApp extends StatelessWidget {
                   TextSpan(
                     text: '\n🥭  Mango',
                     style: TextStyle(
-                      fontSize: 50,
+                      fontSize: 45,
                       color: Colors.orange,
                       fontWeight: FontWeight.bold,
                     ),
@@ -74,7 +74,7 @@ class MyApp extends StatelessWidget {
                   TextSpan(
                     text: '\n🍍  Pineapple',
                     style: TextStyle(
-                      fontSize: 50,
+                      fontSize: 45,
                       color: Colors.green,
                       fontWeight: FontWeight.bold,
                     ),
@@ -82,7 +82,7 @@ class MyApp extends StatelessWidget {
                   TextSpan(
                     text: '\n🍋  Lemon',
                     style: TextStyle(
-                      fontSize: 50,
+                      fontSize: 45,
                       color: Colors.orangeAccent,
                       fontWeight: FontWeight.bold,
                     ),
@@ -90,7 +90,7 @@ class MyApp extends StatelessWidget {
                   TextSpan(
                     text: '\n🍉  Watermelon',
                     style: TextStyle(
-                      fontSize: 50,
+                      fontSize: 45,
                       color: Colors.lightGreen,
                       fontWeight: FontWeight.bold,
                     ),
@@ -98,7 +98,7 @@ class MyApp extends StatelessWidget {
                   TextSpan(
                     text: '\n🥥  Coconut\n',
                     style: TextStyle(
-                      fontSize: 50,
+                      fontSize: 45,
                       color: Colors.brown,
                       fontWeight: FontWeight.bold,
                     ),
@@ -107,8 +107,6 @@ class MyApp extends StatelessWidget {
               ),
             ),
           ),
-
-          
         ),
       ),
     );
